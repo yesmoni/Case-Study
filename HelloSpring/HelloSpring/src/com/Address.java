@@ -1,7 +1,7 @@
 package com;
 
 public class Address {
-	private String city;  
+	private String cityy;  
 	private String state;  
 	private String country;  
 	  
